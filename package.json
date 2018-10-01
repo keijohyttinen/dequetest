@@ -1,0 +1,14 @@
+{
+  "name": "dequetest",
+  "version": "1.0.0",
+  "description": "Deque implementation",
+  "main": "src/Deque.js",
+  "scripts": {
+    "test": "mocha **/*test.js"
+  },
+  "author": "Keijo Hyttinen",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}

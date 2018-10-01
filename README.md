@@ -1,2 +1,1 @@
-# dequetest
-Deque test
+# Simple deque implementation
